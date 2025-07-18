@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:ignore="UseCompoundDrawables">
+
+    <ImageView
+        android:id="@+id/tabIcon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:backgroundTint="?attr/colorOnBackground"
+        android:contentDescription="@string/tab"
+        android:src="@drawable/haminavodayaho"/>
+    <TextView
+        android:id="@+id/tabText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="?attr/colorOnBackground"
+        android:textStyle="bold"
+        android:text="@string/data"
+        android:gravity="center"/>
+</LinearLayout>

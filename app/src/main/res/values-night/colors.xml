@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FFFFFFFF</color> <!-- reverse for visibility -->
+    <color name="white">#FF000000</color>
+    <color name="red">#FFF44336</color>
+    <color name="green">#FF4CAF50</color>
+    <color name="blue">#FF2196F3</color>
+    <color name="yellow">#FFFFEB3B</color>
+    <color name="cyan">#FF00BCD4</color>
+    <color name="magenta">#FFE91E63</color>
+    <color name="gray">#FF9E9E9E</color>
+    <color name="light_gray">#FFBDBDBD</color>
+    <color name="dark_gray">#FFEEEEEE</color>
+
+    <!-- Material Design Colors (Night Variants) -->
+    <color name="primary">#281A3C</color>
+    <color name="primary_variant">#1E1533</color>
+    <color name="secondary">#FF03DAC6</color>
+    <color name="secondary_variant">#FF03DAC6</color>
+    <color name="background">#FF121212</color>
+    <color name="surface">#FF1E1E1E</color>
+    <color name="error">#FFCF6679</color>
+    <color name="on_primary">#FF000000</color>
+    <color name="on_secondary">#FF000000</color>
+    <color name="on_background">#FFFFFFFF</color>
+    <color name="on_surface">#FFFFFFFF</color>
+    <color name="on_error">#FF000000</color>
+
+    <!-- Accent Colors -->
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF03DAC5</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="orange">#FFFF9800</color>
+    <color name="deep_orange">#FFFF5722</color>
+    <color name="lime">#FFCDDC39</color>
+    <color name="indigo">#FF3F51B5</color>
+    <color name="blue_grey">#FF607D8B</color>
+</resources>

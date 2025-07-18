@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:layout_margin="5dp"
+    android:id="@+id/chatLayout"
+    tools:ignore="WebViewLayout">
+    <WebView
+        android:id="@+id/msgWebView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:paddingBottom="8dp"/>
+    <TextView
+        android:id="@+id/msgTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="@string/description"
+        android:textColor="@color/white"
+        android:paddingBottom="8dp"/>
+    <LinearLayout
+        android:id="@+id/msgStampLayout"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:orientation="horizontal"
+        android:gravity="end"
+        tools:ignore="UseCompoundDrawables">
+        <TextView
+            android:id="@+id/msgTimestamp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="5dp"
+            android:textSize="10sp"
+            android:gravity="bottom"
+            android:text="12:23pm"
+            tools:ignore="SmallSp" />
+        <ImageView
+            android:id="@+id/msgStatus"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_gravity="bottom"
+            android:src="@drawable/ic_tick"
+            android:contentDescription="@string/status" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    tools:context=".CreatePost">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/purple_700"
+            android:gravity="center"
+            android:text="@string/create_a_post"/>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            tools:ignore="UselessParent,WebViewLayout">
+            <ImageView
+                android:id="@+id/postData"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:background="@color/gray"
+                android:contentDescription="@string/data"
+                android:minHeight="200dp"
+                android:layout_centerInParent="true"/>
+            <Button
+                android:id="@+id/selectFile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/select_file"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/description"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+        <EditText
+            android:id="@+id/postDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints="Description"
+            android:padding="10dp"
+            android:inputType="text"
+            android:minHeight="100dp"
+            android:background="@drawable/bg_circle"
+            tools:ignore="LabelFor" />
+        <Button
+            android:id="@+id/btnPost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/post"/>
+    </LinearLayout>
+</ScrollView>
