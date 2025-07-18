@@ -4,6 +4,7 @@ HamiNavodayaHo aims to provide a complete social networking experience, allowing
 Features
 
 ScreenShots 
+
 <img width="220" height="1112" alt="Screenshot_20250517-110209" src="https://github.com/user-attachments/assets/d86a80fc-6025-460a-85f4-b44b1aa3fe11" />
 <img width="220" height="1112" alt="Screenshot_20250517-103438" src="https://github.com/user-attachments/assets/bcf3d338-ff34-4861-8556-b3fbf0b16894" />
 <img width="220" height="1112" alt="Screenshot_20250517-103251" src="https://github.com/user-attachments/assets/84496464-f404-482f-a407-6c386db4f30e" />
