@@ -1,28 +1,5 @@
 HamiNavodayaHo - A Comprehensive Social Media Platform
 
-HamiNavodayaHo is a feature-rich social media application designed to connect people, facilitate communication, and enable the sharing of moments and events. Built with a robust Django backend and a native Android frontend, it offers a seamless and interactive user experience.
-Table of Contents
-
-    About the Project
-
-    Features
-
-    Technologies Used
-
-    Prerequisites
-
-    Installation
-
-        Backend (Django) Setup
-
-        Frontend (Android) Setup
-
-    Usage
-
-    Contributing
-
-About the Project
-
 HamiNavodayaHo aims to provide a complete social networking experience, allowing users to create profiles, share updates, engage in real-time conversations, and manage events. The application is divided into two main components: a powerful backend API developed with Django, handling data storage, user authentication, and business logic, and a responsive Android application built with Java, providing an intuitive user interface.
 Features
 
