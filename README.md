@@ -3,6 +3,24 @@ HamiNavodayaHo - A Comprehensive Social Media Platform
 HamiNavodayaHo aims to provide a complete social networking experience, allowing users to create profiles, share updates, engage in real-time conversations, and manage events. The application is divided into two main components: a powerful backend API developed with Django, handling data storage, user authentication, and business logic, and a responsive Android application built with Java, providing an intuitive user interface.
 Features
 
+ScreenShots 
+<img width="720" height="1612" alt="Screenshot_20250517-110209" src="https://github.com/user-attachments/assets/d86a80fc-6025-460a-85f4-b44b1aa3fe11" />
+<img width="720" height="1612" alt="Screenshot_20250517-103438" src="https://github.com/user-attachments/assets/bcf3d338-ff34-4861-8556-b3fbf0b16894" />
+<img width="720" height="1612" alt="Screenshot_20250517-103251" src="https://github.com/user-attachments/assets/84496464-f404-482f-a407-6c386db4f30e" />
+<img width="720" height="1612" alt="Screenshot_20250517-103225" src="https://github.com/user-attachments/assets/0ef14712-6071-4ee6-bb21-3410f23b3191" />
+<img width="720" height="1612" alt="Screenshot_20250517-103245" src="https://github.com/user-attachments/assets/ced7dded-b669-44ec-a275-0d88d0406ee6" />
+<img width="720" height="1612" alt="Screenshot_20250517-103236" src="https://github.com/user-attachments/assets/973b265a-fa3c-429d-962c-07927abebbf5" />
+<img width="720" height="1612" alt="Screenshot_20250517-103229" src="https://github.com/user-attachments/assets/35b6193c-263c-41de-87a8-d99b4a246709" />
+<img width="720" height="1612" alt="Screenshot_20250517-103212" src="https://github.com/user-attachments/assets/2eaae41c-4b53-4221-b4ef-1d461a7409f4" />
+<img width="720" height="1612" alt="Screenshot_20250517-094627" src="https://github.com/user-attachments/assets/d286e4ef-3267-4aa9-b767-6fadb9600d82" />
+<img width="720" height="1612" alt="Screenshot_20250517-094613" src="https://github.com/user-attachments/assets/e2a6b1b3-dccc-4beb-9e3b-d1f188ab2556" />
+<img width="720" height="1612" alt="Screenshot_20250517-094559" src="https://github.com/user-attachments/assets/cc78075b-a6e6-41f7-badd-122604b46fcd" />
+<img width="720" height="1612" alt="Screenshot_20250517-094640" src="https://github.com/user-attachments/assets/d65ff820-dc6f-432c-8d01-879e0abc85a0" />
+<img width="720" height="1612" alt="Screenshot_20250517-094546" src="https://github.com/user-attachments/assets/b22cd1da-73bc-4a3e-ab68-46be5c720bcb" />
+<img width="720" height="1612" alt="Screenshot_20250517-093532" src="https://github.com/user-attachments/assets/9aa45291-ac79-4d69-a54f-8fa1e0af5af1" />
+
+
+
 HamiNavodayaHo comes packed with a variety of features to enhance user interaction:
 
     User Authentication: Secure user registration, login, and session management.
